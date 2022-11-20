@@ -13,3 +13,4 @@ git remote add origin https://github.com/djstory5100/django_test.git
 git branch -M main
 git push -u origin main
 
+earabp092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zdaefadf
